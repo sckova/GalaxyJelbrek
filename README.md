@@ -6,7 +6,7 @@
 jailbreak for iOS 12.0 - 12.1.2<br/>
 jelbrek for iOS 2 - 13.4.1b2<br/>
 Galaxy Team: JoshDevx21, mach_port, sckova/KovaDev<br/>
-original unc0ver dark work by Diatrus, CodeRedKillah, nqcshady, pixelomer
+original unc0ver dark work by Diatrus, CodeRedKillah, nqcshady, pixelomer<br/>
 original unc0ver work by [pwn20wnd](https://twitter.com/Pwn20wnd) & [Sam Bingner](https://twitter.com/sbingner)<br/>
 original unc0ver UI by [Dennis Bednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](https://reddit.com/u/Samg_is_a_Ninja)<br/>
 **This fork requires a network connection for the initial jailbreaking process. Rejailbreaking will not require it. This means you cannot have Airplane Mode enabled when running u0 dark for the first time.**
